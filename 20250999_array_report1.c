@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#define SIZE 10
+#define SIZE 30
 
 double calculateAverage(int scores[], int size);
 int getStudentScore(int scores[], int size, int studentNumber);
